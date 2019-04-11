@@ -1,2 +1,2 @@
 # maxheap
-Simple max heap implantation in Python 
+Simple max heap implementation in Python 
